@@ -1,1 +1,1 @@
-# ParadigmasDeProgramacion2
+# ParadigmasProgramacion2
